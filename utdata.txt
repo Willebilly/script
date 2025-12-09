@@ -1,0 +1,156 @@
+Välkommen till RECON script för att kontrollera en Linux-miljö
+
+=== SYSTEMINFO ===
+=== OS, KERNEL, ARKITEKTUR ===
+Linux kaliVM 6.16.8+kali-amd64 #1 SMP PREEMPT_DYNAMIC Kali 6.16.8-1kali1 (2025-09-24) x86_64 GNU/Linux
+SHELL=/usr/bin/zsh
+SESSION_MANAGER=local/kaliVM:@/tmp/.ICE-unix/1147,unix/kaliVM:/tmp/.ICE-unix/1147
+WINDOWID=0
+QT_ACCESSIBILITY=1
+COLORTERM=truecolor
+XDG_CONFIG_DIRS=/etc/xdg
+XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+XDG_MENU_PREFIX=xfce-
+POWERSHELL_UPDATECHECK=Off
+LANGUAGE=
+LESS_TERMCAP_se=[0m
+LESS_TERMCAP_so=[01;33m
+POWERSHELL_TELEMETRY_OPTOUT=1
+SSH_AUTH_SOCK=/home/admin1/.ssh/agent/s.gR4t32ohRA.agent.I8LHKy3RSq
+DOTNET_CLI_TELEMETRY_OPTOUT=1
+XDG_CONFIG_HOME=/home/admin1/.config
+NMAP_PRIVILEGED=
+DESKTOP_SESSION=lightdm-xsession
+SSH_AGENT_PID=1288
+XDG_SEAT=seat0
+PWD=/home/admin1/kod/fs/as20/o1
+XDG_SESSION_DESKTOP=lightdm-xsession
+LOGNAME=admin1
+QT_QPA_PLATFORMTHEME=qt5ct
+XDG_SESSION_TYPE=x11
+PANEL_GDK_CORE_DEVICE_EVENTS=0
+XAUTHORITY=/home/admin1/.Xauthority
+XDG_GREETER_DATA_DIR=/var/lib/lightdm/data/admin1
+COMMAND_NOT_FOUND_INSTALL_PROMPT=1
+HOME=/home/admin1
+LANG=sv_SE.UTF-8
+LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=00:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.7z=01;31:*.ace=01;31:*.alz=01;31:*.apk=01;31:*.arc=01;31:*.arj=01;31:*.bz=01;31:*.bz2=01;31:*.cab=01;31:*.cpio=01;31:*.crate=01;31:*.deb=01;31:*.drpm=01;31:*.dwm=01;31:*.dz=01;31:*.ear=01;31:*.egg=01;31:*.esd=01;31:*.gz=01;31:*.jar=01;31:*.lha=01;31:*.lrz=01;31:*.lz=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.lzo=01;31:*.pyz=01;31:*.rar=01;31:*.rpm=01;31:*.rz=01;31:*.sar=01;31:*.swm=01;31:*.t7z=01;31:*.tar=01;31:*.taz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tgz=01;31:*.tlz=01;31:*.txz=01;31:*.tz=01;31:*.tzo=01;31:*.tzst=01;31:*.udeb=01;31:*.war=01;31:*.whl=01;31:*.wim=01;31:*.xz=01;31:*.z=01;31:*.zip=01;31:*.zoo=01;31:*.zst=01;31:*.avif=01;35:*.jpg=01;35:*.jpeg=01;35:*.jxl=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:*~=00;90:*#=00;90:*.bak=00;90:*.crdownload=00;90:*.dpkg-dist=00;90:*.dpkg-new=00;90:*.dpkg-old=00;90:*.dpkg-tmp=00;90:*.old=00;90:*.orig=00;90:*.part=00;90:*.rej=00;90:*.rpmnew=00;90:*.rpmorig=00;90:*.rpmsave=00;90:*.swp=00;90:*.tmp=00;90:*.ucf-dist=00;90:*.ucf-new=00;90:*.ucf-old=00;90::ow=30;44:
+XDG_CURRENT_DESKTOP=XFCE
+XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+XDG_CACHE_HOME=/home/admin1/.cache
+XDG_SESSION_CLASS=user
+TERM=xterm-256color
+LESS_TERMCAP_mb=[1;31m
+LESS_TERMCAP_me=[0m
+LESS_TERMCAP_md=[1;36m
+USER=admin1
+COLORFGBG=15;0
+DISPLAY=:0.0
+LESS_TERMCAP_ue=[0m
+SHLVL=2
+LESS_TERMCAP_us=[1;32m
+XDG_VTNR=7
+XDG_SESSION_ID=2
+XDG_RUNTIME_DIR=/run/user/1000
+QT_AUTO_SCREEN_SCALE_FACTOR=0
+XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/:/usr/share
+PATH=/home/admin1/.local/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games:/home/admin1/.dotnet/tools
+GDMSESSION=lightdm-xsession
+DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+OLDPWD=/home/admin1
+_=/usr/bin/env
+
+
+=== AKTUELL ANVÄNDARE ===
+admin1
+
+
+=== ANVÄNDARE MED SHELL ===
+root:x:0:0:root:/root:/usr/bin/zsh
+postgres:x:114:118:PostgreSQL administrator:/var/lib/postgresql:/bin/bash
+admin1:x:1000:1000:admin1,,,:/home/admin1:/usr/bin/zsh
+
+
+=== NÄTVERK ===
+    inet 127.0.0.1/8 scope host lo
+    inet6 ::1/128 scope host noprefixroute 
+    inet 10.0.0.1/24 brd 10.0.0.255 scope global eth0
+    inet6 fe80::a00:27ff:fe7b:61c4/64 scope link proto kernel_ll 
+    inet 10.0.2.15/24 brd 10.0.2.255 scope global dynamic noprefixroute eth1
+    inet6 fd17:625c:f037:2:eb73:c425:e40d:6636/64 scope global temporary dynamic 
+    inet6 fd17:625c:f037:2:a00:27ff:fe2c:711f/64 scope global dynamic mngtmpaddr noprefixroute 
+    inet6 fe80::a00:27ff:fe2c:711f/64 scope link noprefixroute 
+{
+    "ip": "217.21.233.210",
+    "network": "217.21.224.0/20",
+    "version": "IPv4",
+    "city": "Stockholm",
+    "region": "Stockholm County",
+    "region_code": "AB",
+    "country": "SE",
+    "country_name": "Sweden",
+    "country_code": "SE",
+    "country_code_iso3": "SWE",
+    "country_capital": "Stockholm",
+    "country_tld": ".se",
+    "continent_code": "EU",
+    "in_eu": true,
+    "postal": "102 41",
+    "latitude": 59.3326,
+    "longitude": 18.0651,
+    "timezone": "Europe/Stockholm",
+    "utc_offset": "+0100",
+    "country_calling_code": "+46",
+    "currency": "SEK",
+    "currency_name": "Krona",
+    "languages": "sv-SE,se,sma,fi-SE",
+    "country_area": 449964.0,
+    "country_population": 10183175,
+    "asn": "AS29672",
+    "org": "S:t Erik Kommunikation AB"
+}
+
+=== HÅRDVARA  ===
+Architecture:                            x86_64
+CPU op-mode(s):                          32-bit, 64-bit
+Address sizes:                           48 bits physical, 48 bits virtual
+Byte Order:                              Little Endian
+CPU(s):                                  2
+On-line CPU(s) list:                     0,1
+Vendor ID:                               AuthenticAMD
+Model name:                              AMD Ryzen 7 7730U with Radeon Graphics
+CPU family:                              25
+Model:                                   80
+Thread(s) per core:                      1
+Core(s) per socket:                      2
+Socket(s):                               1
+Stepping:                                0
+BogoMIPS:                                3992,39
+Flags:                                   fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt rdtscp lm constant_tsc rep_good nopl xtopology nonstop_tsc cpuid extd_apicid tsc_known_freq pni pclmulqdq ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand hypervisor lahf_lm cmp_legacy cr8_legacy abm sse4a misalignsse 3dnowprefetch vmmcall fsgsbase bmi1 avx2 bmi2 invpcid rdseed adx clflushopt sha_ni arat debug_swap
+Hypervisor vendor:                       KVM
+Virtualization type:                     full
+NUMA node(s):                            1
+NUMA node0 CPU(s):                       0,1
+Vulnerability Gather data sampling:      Not affected
+Vulnerability Ghostwrite:                Not affected
+Vulnerability Indirect target selection: Not affected
+Vulnerability Itlb multihit:             Not affected
+Vulnerability L1tf:                      Not affected
+Vulnerability Mds:                       Not affected
+Vulnerability Meltdown:                  Not affected
+Vulnerability Mmio stale data:           Not affected
+Vulnerability Old microcode:             Not affected
+Vulnerability Reg file data sampling:    Not affected
+Vulnerability Retbleed:                  Not affected
+Vulnerability Spec rstack overflow:      Vulnerable: Safe RET, no microcode
+Vulnerability Spec store bypass:         Not affected
+Vulnerability Spectre v1:                Mitigation; usercopy/swapgs barriers and __user pointer sanitization
+Vulnerability Spectre v2:                Mitigation; Retpolines; STIBP disabled; RSB filling; PBRSB-eIBRS Not affected; BHI Not affected
+Vulnerability Srbds:                     Not affected
+Vulnerability Tsa:                       Vulnerable: No microcode
+Vulnerability Tsx async abort:           Not affected
+Vulnerability Vmscape:                   Not affected
+              totalt      använt       fritt       delat  buff/cache  tillgängl.
+Minne:         3,8Gi       1,5Gi       1,4Gi        65Mi       1,2Gi       2,3Gi
+Växl.:         1,6Gi          0B       1,6Gi
+

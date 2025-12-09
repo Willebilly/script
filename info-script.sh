@@ -7,6 +7,7 @@
 #
 # Author: Frans Schartau
 # Last Update: 2025-01-01
+# För att allt ska sparas i utdata.txt skirv: ./info-script.sh > utdata.txt
 
 
 echo "Välkommen till RECON script för att kontrollera en Linux-miljö"
@@ -41,4 +42,3 @@ lscpu
 free -h
 echo
 
-info-script.sh > utdata
